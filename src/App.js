@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Sample App to test hosting on S3 and Amplify
+          Sample App to test hosting on S3 and Amplify "Added github actions"
         </p>
         <a
           className="App-link"
