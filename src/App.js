@@ -3,7 +3,6 @@ import './App.css';
 
 function App() {
 
-  function fetch(){}
   return (
     <div className="App">
       <header className="App-header">
